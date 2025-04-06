@@ -1,3 +1,3 @@
-# Project Manus
+# Bill of Materials
  
-This is the doccumentation for Project Manus, a mostly 3D printed robotic intended to showcase engineering design priciples to prospective students. Project Manus is a student lead team part of Purdue University's EPICS ECE Outreach program.
+The estimated build cost for the project is roughly $300. All parts were printed in PLA filament, but PETG is ideal. A total of 6 planet gears and 2 sun gears are required.
