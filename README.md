@@ -4,7 +4,7 @@ Project Manus is a student lead team part of Purdue University's EPICS ECE Outre
 
 ![CAD](Media/Screenshot-2025-04-25-194854.png)
 ![Showcase](Media/unnamed(10).jpg)
-
+![Poster](Media/IMG_2962.jpg)
 # Issues
 
 1. Many components such as the bearings rely on a tight interference fit with 3D printed plastic. This method makes assembly relatively simple, however it makes disassembly almost impossible without cracking the plastic. If the parts are printed in PLA, the fit can slowly  loosen over time due to PLA's fluid properties under pressure, leading to excessive play in the arm. We suggest modifying the model to include screw sections between press fit components and other parts to make disassembly easier, and to print all parts in PETG.
