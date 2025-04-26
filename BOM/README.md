@@ -1,6 +1,6 @@
 # Bill of Materials
  
-The estimated build cost for the project is roughly $300. We reccomend printing all parts in PETG filament with standard settings. A total of 6 planet gears and 2 sun gears are required.
+The estimated build cost for the project is roughly $300. We reccomend printing all parts in PETG filament with standard settings. Please note that every 3D printer prints with a different tolerance. You will likely have to adjust dimesions within CAD to get proper interference fits, which this design relies on. A total of 6 planet gears and 2 sun gears are required.
 
 1x $9.99 - GT2 Timing Belt  https://a.co/d/6Wf6PmA 
 
