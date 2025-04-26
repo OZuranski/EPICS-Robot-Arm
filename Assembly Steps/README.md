@@ -1,4 +1,4 @@
-![Banner](1.png)
+![Banner](Media/1.png)
 ![Banner](2.png)
 ![Banner](3.png)
 ![Banner](4.png)
